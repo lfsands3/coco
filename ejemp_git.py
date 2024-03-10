@@ -1,1 +1,1 @@
-print("PRACTICA DE GIThub")
+print("PRACTICA DE python")
